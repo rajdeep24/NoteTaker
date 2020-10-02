@@ -15,7 +15,8 @@ We learned how to leverage third-party APIs to enhance our website's capabilitie
 - JavaScript
 - Bootstrap
 - jQuery
-- Moment.JS
+- NPM express
+- NPM nodemon
 
 Below are links to the webpage and the github repository for my Work-Day-Scheduler application:
 
