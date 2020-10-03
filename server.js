@@ -19,7 +19,7 @@ app.listen(PORT, function () {
 //Routes
 //Home page
 app.get("/", function (req, res) {
-	res.sendFile(path.join(__dirname, "./public/index.html"));
+	res.json(path.join(__dirname, "public/index.html"));
 });
 
 //Notes page
