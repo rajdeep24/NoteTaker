@@ -40,7 +40,11 @@ Github Repository: <https://github.com/rajdeep24/NoteTaker>
 
 #### Notes Page
 
-![NoteTaker Home Page](./public/assets/images/notespage_screenshot.PNG)
+![NoteTaker Notes Page](./public/assets/images/notespage_screenshot.PNG)
+
+#### Saved Notes
+
+![NoteTaker Saved Notes Page](./public/assets/images/preivously_saved_code.PNG)
 
 ## Credits
 

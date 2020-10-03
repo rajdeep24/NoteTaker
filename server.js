@@ -50,9 +50,8 @@ noteApp.post("/api/notes", (req, res) => {
 
 			fs.writeFile("./db/db.json", JSON.stringify(noteArray), (err, data) => {
 				if (err) throw err;
-
-				res.json(JSON.parse(data));
 			});
+			res.json(JSON.parse(data));
 		});
 	}
 });
