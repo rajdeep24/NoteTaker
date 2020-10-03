@@ -65,7 +65,7 @@ noteApp.delete("/api/notes/:id", function (req, res) {
 	const id = req.params.id;
 
 	//read the file
-	fs.readFile("./db/db/json", "utf8", (err, data) => {
+	fs.readFile("./db/db.json", "utf8", (err, data) => {
 		if (err) {
 			throw err;
 		}
