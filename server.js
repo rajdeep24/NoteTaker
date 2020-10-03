@@ -87,3 +87,6 @@ noteApp.delete("/api/notes/:id", function (req, res) {
 	});
 });
 //Go to home page
+noteApp.get("*", function (req, res) {
+	res.sendFile(path.join(__dirname, "/public/index.html"));
+});
