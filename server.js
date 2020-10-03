@@ -6,7 +6,7 @@ const path = require("path");
 const app = express();
 
 //Define a PORT
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3001;
 //Middle Ware (optional)
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
