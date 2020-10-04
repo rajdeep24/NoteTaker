@@ -10,7 +10,7 @@
 
 ## Description
 
-The NoteTaker application is simple to use web application that allows users to gather their thoughts and take notes using a simple UI. Specifically, NoteTaker allows users to write, save, and delete notes NoteTaker will allow users to view or delete previously saved notes.
+The NoteTaker application is a web application that allows users to gather their thoughts and take notes using a simple UI. Specifically, NoteTaker allows users to write, save, and delete notes.
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
